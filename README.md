@@ -250,7 +250,7 @@ Publish the website in the LocalHost.
 # OUTPUT:
 <img width="805" height="532" alt="{7517057E-8102-4886-9F04-EC62DDEF3D0E}" src="https://github.com/user-attachments/assets/03e901d6-9007-40ec-b15b-a540a4c0aee4" />
 
-![Uploading {582B437B-AAB0-456A-8F6B-046AC54E6C5D}.png…]()
+<img width="808" height="537" alt="{582B437B-AAB0-456A-8F6B-046AC54E6C5D}" src="https://github.com/user-attachments/assets/7a750f74-9220-475d-8c4b-f68f2b45d54e" />
 
 
 # RESULT:
